@@ -1,0 +1,19 @@
+
+
+body{
+    color:turquoise;
+
+}
+
+.clicked{
+    color:thistle;
+}
+
+.form,
+.greeting{
+display:none;
+}
+
+.showing{
+    display:block;
+}
